@@ -21,3 +21,5 @@ Run the following command at the Terminal(Mac/Linux) or Command Prompt(Windows)
 ```
 jupyter notebook
 ```
+
+Credits: Team 11 SA52
