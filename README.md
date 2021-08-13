@@ -4,4 +4,12 @@ Machine learning project involving building a convolutional neural network model
 # Installation
 If using pip,
 
-### pip install notebook
+'''
+pip install notebook
+'''
+
+Or if using anaconda,
+
+'''
+conda install -c conda-forge notebook
+'''
